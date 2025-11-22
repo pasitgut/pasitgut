@@ -1,10 +1,12 @@
-<h2 align="left">Hi 👋! My name is Pasit 
+# 👋 Hi, I'm Pasit Polwisepornsuk  
+### Mobile & Backend Developer | Computer Science @ Khon Kaen University
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasitgut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasitgut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm passionate about building real-world applications with clean architecture, high performance, and great user experience.  
+Currently focusing on **Mobile Development (Flutter / Kotlin)** and **Backend (Go, Elysia, Spring Boot)**.
 
+---
+
+## 🚀 Tech Stack
 ###
 
 <div align="left">
@@ -40,6 +42,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
+  <img src="https://elysiajs.com/assets/elysia.svg" height="30"
+  alt="elysia logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
@@ -56,4 +61,48 @@
 </div>
 
 ###
+
+### **Mobile**
+- Flutter, Dart  
+- Kotlin, Jetpack Compose  
+- Firebase, Supabase
+
+### **Backend**
+- Golang (Gin / Fiber)  
+- Node.js (Elysia / Express)  
+- Spring Boot (Kotlin/Java)
+
+### **Database**
+- PostgreSQL
+- MongoDB  
+- Firebase Firestore
+- Redis
+
+### **DevOps / Tools**
+- Docker, Docker Compose  
+- GitHub Actions  
+- gRPC, REST, GraphQL  
+- WebSocket  
+- Linux, Nginx
+
+---
+
+## 🧰 Tools & Skills
+- Clean Architecture  
+- Design Patterns  
+- CI/CD Pipelines  
+- Agile workflow  
+- System Design basics  
+- Unit Testing (JUnit, Jest, Go test)  
+- API design (REST / GraphQL / gRPC)
+
+---
+
+### ⚡ Fun Facts
+- I enjoy building side projects to improve both coding and product-thinking skills.  
+- Love solving real-world problems with code and designing scalable systems.
+
+
+
+
 
