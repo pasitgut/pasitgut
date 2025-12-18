@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pasit Polwisepornsuk  
-### Mobile & Backend Developer | Computer Science @ Khon Kaen University
+### Mobile, Backend Developer and DevOps | Computer Science @ Khon Kaen University
 
 I'm passionate about building real-world applications with clean architecture, high performance, and great user experience.  
 Currently focusing on **Mobile Development (Flutter / Kotlin)** and **Backend (Go, Elysia, Spring Boot)**.
