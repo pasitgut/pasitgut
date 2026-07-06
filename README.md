@@ -1,108 +1,119 @@
-# 👋 Hi, I'm Pasit Polwisepornsuk  
-### Mobile, Backend Developer and DevOps | Computer Science @ Khon Kaen University
+# Hi, I'm Pasit Polwisepornsuk 👋
 
-I'm passionate about building real-world applications with clean architecture, high performance, and great user experience.  
-Currently focusing on **Mobile Development (Flutter / Kotlin)** and **Backend (Go, Elysia, Spring Boot)**.
+**Full-Stack Developer • Computer Science @ Khon Kaen University**
 
----
+I build production software from idea to deployment.
 
-## 🚀 Tech Stack
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://elysiajs.com/assets/elysia.svg" height="30"
-  alt="elysia logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
-
-###
-
-### **Mobile**
-- Flutter, Dart  
-- Kotlin, Jetpack Compose  
-- Firebase, Supabase
-
-### **Backend**
-- Golang (Gin / Fiber)  
-- Node.js (Elysia / Express)  
-- Spring Boot (Kotlin/Java)
-
-### **Database**
-- PostgreSQL
-- MongoDB  
-- Firebase Firestore
-- Redis
-
-### **DevOps / Tools**
-- Docker, Docker Compose  
-- GitHub Actions  
-- gRPC, REST, GraphQL  
-- WebSocket  
-- Linux, Nginx
+Currently a **Full-Stack Developer Intern** at **T.Home Inspector**, where I independently develop internal systems, workflow automation, dashboards, and customer-facing web applications. I'm interested in backend engineering, scalable system design, DevOps, and AI-assisted software development.
 
 ---
 
-## 🧰 Tools & Skills
-- Clean Architecture  
-- Design Patterns  
-- CI/CD Pipelines  
-- Agile workflow  
-- System Design basics  
-- Unit Testing (JUnit, Jest, Go test)  
-- API design (REST / GraphQL / gRPC)
+## About Me
+
+- 💻 Full-Stack Developer with production experience
+- 🚀 Built and deployed **5+ production systems**
+- ⚙️ Experienced across the complete software lifecycle:
+  - Requirement gathering
+  - System design
+  - Development
+  - Testing
+  - Deployment
+  - Maintenance
+- 🤖 Exploring AI-assisted software engineering and developer tooling
+- 📍 Khon Kaen, Thailand
 
 ---
 
-### ⚡ Fun Facts
-- I enjoy building side projects to improve both coding and product-thinking skills.  
-- Love solving real-world problems with code and designing scalable systems.
+## Tech Stack
 
+### Languages
 
+`Go` `TypeScript` `JavaScript` `Python` `Java` `Kotlin` `PHP` `SQL` `Dart`
 
+### Frontend
 
+`React` `Next.js` `Vue` `Tailwind CSS`
 
+### Backend
+
+`Gin` `Spring Boot` `Express` `Elysia` `Hono`
+
+### Mobile
+
+`Flutter` `Jetpack Compose`
+
+### Database
+
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `Firebase`
+
+### Cloud & DevOps
+
+`Docker` `GitHub Actions` `Cloudflare` `Google Cloud` `Vercel` `Netlify`
+
+### AI Development
+
+`Claude Code` `Cursor` `OpenAI Codex` `MCP` `OpenCode` `Antigravity`
+
+---
+
+## Featured Projects
+
+### 🏢 Internal HRM Platform
+A production HR management system used for daily business operations.
+
+**Tech:** Next.js • Go • PostgreSQL
+
+---
+
+### 📋 Workflow Management Platform
+
+Workflow tracking system integrated with legacy APIs and LINE Official Account.
+
+**Tech:** Next.js • Go • MySQL
+
+---
+
+### 🌐 Company Website
+
+Refactored the company's production website with a cleaner architecture and improved performance by **~33%**.
+
+---
+
+### 🫁 Lung Sounds Tutor
+
+An educational platform developed for the Faculty of Nursing, Khon Kaen University, featuring interactive 3D lung visualization.
+
+**Tech:** Next.js • Firebase • Three.js
+
+---
+
+### 🧠 Gymemo
+
+A cognitive training platform for elderly users.
+
+**Tech:** Next.js • Express • MongoDB
+
+---
+
+## Achievements
+
+🏆 Top 15 — True CyberSafe × TrueMoney Hackathon
+
+🥈 1st Runner-up — Data Universe Hackathon
+
+---
+
+## Current Focus
+
+- Backend Engineering (Go)
+- Distributed Systems
+- DevOps & Cloud Infrastructure
+- System Design
+- AI-assisted Software Engineering
+
+---
+
+## Connect with Me
+
+- 🌐 https://pasitgut.com
+- 📫 pasitgut.dev@gmail.com
